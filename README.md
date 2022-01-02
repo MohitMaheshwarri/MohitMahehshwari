@@ -17,19 +17,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Mohti565&color=blueviolet&label=Profile+Views)
 
+**Connect with me:**  
 
 <p align="left">
-  <a href="https://github.com/mohit565?tab=followers">
-    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohit-maheshwari-685b451b9" target="_blank">
+<a href="https://www.linkedin.com/in/mohit-maheshwari-685b451b9" target="_blank">
   <img alt="Mohit Maheshwari | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
- <a href="https://stackoverflow.com/users/15750590/" target="_blank">
-  <img alt="Mohit Maheshwari | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100014764423541" target="_blank">
   <img  alt="Mohit Maheshwari | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
@@ -37,7 +29,15 @@
 <a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
-
+<a href="https://github.com/mohit565?tab=followers">
+  <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+</a>
+<a href="http://twitter.com/">
+    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
+</a>
+<a href="https://stackoverflow.com/users/15750590/" target="_blank">
+  <img alt="Mohit Maheshwari | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 <!-- ### Blogs posts
 BLOG-POST-LIST:START 
 BLOG-POST-LIST:END-->
