@@ -1,5 +1,5 @@
 ## Hola! Mohit here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- ✍🏻 I'm a passionate **Developer and Graphic Desginer**
+- ✍🏻 I'm a passionate **Web Developer and Graphic Desginer**
     
 - 🔭 I’m currently working on **Web Developer**
 
