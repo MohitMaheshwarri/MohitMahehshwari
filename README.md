@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A Passionate Developer.</h3>
+<h3 align="center">A Passionate Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhah-exe&label=Profile%20views&color=0e75b6&style=flat" alt="talhah-exe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit565&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit565" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhah-exe" alt="talhah-exe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohit565 alt="Mohit565" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/xesaimgod" target="blank"><img src="https://img.shields.io/twitter/follow/xesaimgod?logo=twitter&style=for-the-badge" alt="xesaimgod" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/xesaimgod" target="blank"><img src="https://img.shields.io/twitter/follow/xesaimgod?logo=twitter&style=for-the-badge" alt="xesaimgod" /></a> </p>
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+
 - 🔭 I’m currently working on **Web Developer**
+- 
 - 🌱 I’m currently studying **CS in Mehran UET**
+- 
 - 📚 I’m currently learning **Blockchain Development**
+- 
 - 👯 I’m looking to collaborate on **Blockchain Development**
+- 
 - 💬 Ask me about Web Development or any tech related stuff.
+- 
 - 📫 How to reach me: **dewanmohitkumar3@gmail.com
+- 
 - ⚡ Fun fact: **I am Linux Lover**
 
 ### Blogs posts
