@@ -17,6 +17,9 @@
  
 - ⚡ Fun fact: **I am Linux Lover**
 
+![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+
+
 <p align="left">
   <a href="https://github.com/mohit565?tab=followers">
     <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -37,9 +40,9 @@
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ### Blogs posts
+BLOG-POST-LIST:START 
+BLOG-POST-LIST:END-->
 
 
 <h3 align="left">Languages and Tools:</h3>
