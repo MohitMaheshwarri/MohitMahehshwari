@@ -1,4 +1,23 @@
-<p align="center">
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+
+## Hola! Mohit here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- ✍🏻 I'm a passionate **Developer and Graphic Desginer**
+    
+- 🔭 I’m currently working on **Web Developer**
+
+- 🌱 I’m currently studying **CS in Mehran UET**
+ 
+- 📚 I’m currently learning **Blockchain Development**
+ 
+- 👯 I’m looking to collaborate on **Blockchain Development**
+
+- 💬 Ask me about Web Development or any tech related stuff.
+ 
+- 📫 How to reach me: **dewanmohitkumar3@gmail.com**
+ 
+- ⚡ Fun fact: **I am Linux Lover**
+
+<p align="left">
   <a href="https://github.com/mohit565?tab=followers">
     <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 <!--   </a>
@@ -17,21 +36,6 @@
 <a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
-<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
-
-- 🔭 I’m currently working on **Web Developer**
-
-- 🌱 I’m currently studying **CS in Mehran UET**
- 
-- 📚 I’m currently learning **Blockchain Development**
- 
-- 👯 I’m looking to collaborate on **Blockchain Development**
-
-- 💬 Ask me about Web Development or any tech related stuff.
- 
-- 📫 How to reach me: **dewanmohitkumar3@gmail.com**
- 
-- ⚡ Fun fact: **I am Linux Lover**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
