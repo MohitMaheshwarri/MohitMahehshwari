@@ -10,17 +10,17 @@
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 - 🔭 I’m currently working on **Web Developer**
-- 
+
 - 🌱 I’m currently studying **CS in Mehran UET**
-- 
+ 
 - 📚 I’m currently learning **Blockchain Development**
-- 
+ 
 - 👯 I’m looking to collaborate on **Blockchain Development**
-- 
+
 - 💬 Ask me about Web Development or any tech related stuff.
-- 
+ 
 - 📫 How to reach me: **dewanmohitkumar3@gmail.com
-- 
+ 
 - ⚡ Fun fact: **I am Linux Lover**
 
 ### Blogs posts
