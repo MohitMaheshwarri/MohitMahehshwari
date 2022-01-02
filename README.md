@@ -19,7 +19,7 @@
 
 - 💬 Ask me about Web Development or any tech related stuff.
  
-- 📫 How to reach me: **dewanmohitkumar3@gmail.com
+- 📫 How to reach me: **dewanmohitkumar3@gmail.com**
  
 - ⚡ Fun fact: **I am Linux Lover**
 
