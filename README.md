@@ -31,10 +31,10 @@
 <a href="https://github.com/MohitMahehshwari?tab=followers">
   <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="http://twitter.com/">
+<a href="https://twitter.com/Mohit82866386/">
     <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
-<a href="https://stackoverflow.com/users/15750590/" target="_blank">
+<a href="https://stackoverflow.com/" target="_blank">
   <img alt="Mohit Maheshwari | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </p>
