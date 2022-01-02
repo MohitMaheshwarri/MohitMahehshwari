@@ -28,7 +28,7 @@
 </a>
 <a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://github.com/mohit565?tab=followers">
+<a href="https://github.com/MohitMahehshwari?tab=followers">
   <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 <a href="http://twitter.com/">
@@ -49,20 +49,18 @@ BLOG-POST-LIST:END-->
 <hr>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mohit565&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Mohit565&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MohitMahehshwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=MohitMahehshwari&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
   <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-<hr>
+</hr>
 
 <div align="center">
   
- <a href="https://github.com/Mohit565"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohit565&theme=react-dark&hide_border=true&area=true" /></a> 
+ <a href="https://github.com/MohitMahehshwari"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohitMahehshwari&theme=react-dark&hide_border=true&area=true" /></a> 
   
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
