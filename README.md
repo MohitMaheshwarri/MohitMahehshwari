@@ -28,7 +28,6 @@
 </a>
 <a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
 <a href="https://github.com/mohit565?tab=followers">
   <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
@@ -38,6 +37,7 @@
 <a href="https://stackoverflow.com/users/15750590/" target="_blank">
   <img alt="Mohit Maheshwari | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+</p>
 <!-- ### Blogs posts
 BLOG-POST-LIST:START 
 BLOG-POST-LIST:END-->
@@ -58,7 +58,7 @@ BLOG-POST-LIST:END-->
 
 <div align="center">
   
- <a href="https://github.com/Mohit565"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Moit565&theme=react-dark&hide_border=true&area=true" /></a> 
+ <a href="https://github.com/Mohit565"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohit565&theme=react-dark&hide_border=true&area=true" /></a> 
   
 
 ### Show some ❤️ by starring some of the repositories!
