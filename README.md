@@ -20,7 +20,7 @@
 **Connect with me:**  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohit-maheshwari-685b451b9" target="_blank">
+<a href="https://www.linkedin.com/in/mohit-maheshwarri" target="_blank">
   <img alt="Mohit Maheshwari | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100014764423541" target="_blank">
@@ -28,7 +28,7 @@
 </a>
 <a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
   <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://github.com/MohitMahehshwari?tab=followers">
+<a href="https://github.com/MohitMahehshwari/">
   <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 <a href="https://twitter.com/Mohit82866386/">
