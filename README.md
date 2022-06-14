@@ -1,12 +1,19 @@
 # 💫About Me :
 ✍🏻 I'm a passionate Web Developer and Graphic Desginer
+
 🔭 I’m currently working on Web Developer
+
 🌱 I’m currently studying CS in Mehran UET
+
 📚 I’m currently learning Blockchain Development
+
 👯 I’m looking to collaborate on Blockchain Development
+
 💬 Ask me about Web Development or any tech related stuff.
+
 📫 How to reach me: dewanmohitkumar3@gmail.com
 ⚡ Fun fact: I am Linux Lover
+
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/None) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/none) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/none) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/none) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-maheshwarri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohitmaheshwarri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/None) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/none) 
