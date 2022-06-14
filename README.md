@@ -1,66 +1,25 @@
-## Hola! Mohit here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- ✍🏻 I'm a passionate **Web Developer and Graphic Desginer**
-    
-- 🔭 I’m currently working on **Web Developer**
+# 💫About Me :
+✍🏻 I'm a passionate Web Developer and Graphic Desginer
+🔭 I’m currently working on Web Developer
+🌱 I’m currently studying CS in Mehran UET
+📚 I’m currently learning Blockchain Development
+👯 I’m looking to collaborate on Blockchain Development
+💬 Ask me about Web Development or any tech related stuff.
+📫 How to reach me: dewanmohitkumar3@gmail.com
+⚡ Fun fact: I am Linux Lover
 
-- 🌱 I’m currently studying **CS in Mehran UET**
- 
-- 📚 I’m currently learning **Blockchain Development**
- 
-- 👯 I’m looking to collaborate on **Blockchain Development**
+## 🌐Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/None) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/none) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/none) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/none) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-maheshwarri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohitmaheshwarri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/None) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/none) 
 
-- 💬 Ask me about Web Development or any tech related stuff.
- 
-- 📫 How to reach me: **dewanmohitkumar3@gmail.com**
- 
-- ⚡ Fun fact: **I am Linux Lover**
+# 💻Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=MohitMahehshwari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohitMahehshwari&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMahehshwari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Mohti565&color=blueviolet&label=Profile+Views)
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohitMahehshwari&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-**Connect with me:**  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohit-maheshwarri" target="_blank">
-  <img alt="Mohit Maheshwari | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100014764423541" target="_blank">
-  <img  alt="Mohit Maheshwari | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/maheshwarri_mohit" target="_blank">
-  <img alt="Mohit Maheshwari | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://github.com/MohitMahehshwari/">
-  <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a>
-<a href="https://twitter.com/Mohit82866386/">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://stackoverflow.com/" target="_blank">
-  <img alt="Mohit Maheshwari | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-</p>
-<!-- ### Blogs posts
-BLOG-POST-LIST:START 
-BLOG-POST-LIST:END-->
-
-**Languages and Tools:**  
-      
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<hr>
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MohitMahehshwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=MohitMahehshwari&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
-</p>
-
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-</hr>
-
-<div align="center">
-  
- <a href="https://github.com/MohitMahehshwari"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohitMahehshwari&theme=react-dark&hide_border=true&area=true" /></a> 
-  
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=MohitMahehshwari&icon=2&color=1)](https://visitcount.itsvg.in)
