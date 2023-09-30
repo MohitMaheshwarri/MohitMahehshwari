@@ -1,15 +1,9 @@
 # 💫About Me :
-✍🏻 I'm a passionate Web Developer and Graphic Desginer
-
-🔭 I’m currently working on Web Developer
+✍🏻 I'm a passionate UI/UX Designer and Web Developer
 
 🌱 I’m currently studying CS in Mehran UET
 
-📚 I’m currently learning Blockchain Development
-
-👯 I’m looking to collaborate on Blockchain Development
-
-💬 Ask me about Web Development or any tech related stuff.
+💬 Ask me about  UI/UX Designer and Web Developer or any tech related stuff.
 
 📫 How to reach me: dewanmohitkumar3@gmail.com
 
